@@ -1,0 +1,63 @@
+/*------ HEADER ------*/
+.navbar-list{
+    display: flex;
+    flex-direction: row;
+    justify-content:right;
+}
+.navbar-item{
+    margin-right: 15px;
+}
+
+
+/*------ INDEX ------*/
+.body1
+{
+    background-color:black;
+}
+
+.body2
+{
+    background-color: blanchedalmond;
+
+}
+
+
+.bienvenue{
+    font-family: 'Zen Old Mincho', serif;
+    font-size: xx-large;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.inscrit {
+   
+color: blanchedalmond;
+font-family: 'Zen Old Mincho', serif;
+text-align: center;
+}
+
+.boutton {
+    border: 1px solid black;
+    border-radius: 40%;
+    color: blanchedalmond;
+    background-color: black;
+    font-family: 'Zen Old Mincho', serif;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+/*------ LE RESTE ------*/
+
+.table{
+    display: flex;
+    justify-content: center;
+    
+  }
+
+/*------ FOOTER ------*/
+
+.footer{
+    font-family: 'Zen Old Mincho', serif;
+}
